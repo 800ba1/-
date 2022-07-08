@@ -15,6 +15,7 @@
 ## Things i code with:
 ![](https://img.shields.io/badge/Java-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/python-orange?style=for-the-badge)
+![](https://img.shields.io/badge/C++-red?style=for-the-badge)
 ![](https://img.shields.io/badge/PHP-brightgreen?style=for-the-badge)
 <!--徽标获取网站：https://shields.io/-->
 <br>
